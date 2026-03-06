@@ -32,7 +32,7 @@ Execution
 ./phase4
 
 Author
-Your Name
+Shamal Khattak
 
 Repository
 https://github.com/MrCoder1218/cs3502-project1
